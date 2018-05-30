@@ -1,0 +1,4 @@
+%syntax-version=1.0.0
+%project=lift
+%uri=git@github.com:j23schoen/django-lift.git
+
