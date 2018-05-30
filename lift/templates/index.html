@@ -1,0 +1,9 @@
+<h1>hello</h1>
+
+{% if workouts %}
+    <ul>
+        {% for lift in workouts %}
+            <li>{{lift.objects}}</li>
+        {% endfor %}
+    </ul>
+{% endif %}
