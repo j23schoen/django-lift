@@ -2,4 +2,4 @@
 %project=lift
 %uri=git@github.com:j23schoen/django-lift.git
 
-workout_session 2018-05-30T14:55:47Z Justin Schoen <JSchoen@KBPDEVJSCHO1092.local> # create workout session table
+appschema 2018-08-06T19:46:31Z Justin Schoen <j23schoen@gmail.com> # Add schema
