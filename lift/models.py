@@ -7,6 +7,7 @@ class WorkoutSession(models.Model):
     date_of_workout = models.DateTimeField(auto_now_add=True)
     notes = models.TextField()
 
+
 class LiftEntry(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
     LIFTS = (

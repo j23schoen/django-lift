@@ -1,5 +1,0 @@
-%syntax-version=1.0.0
-%project=lift
-%uri=git@github.com:j23schoen/django-lift.git
-
-appschema 2018-08-06T19:46:31Z Justin Schoen <j23schoen@gmail.com> # Add schema

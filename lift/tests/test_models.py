@@ -1,6 +1,7 @@
 from lift.models import WorkoutSession
 from unittest import TestCase
 
+
 class TestModels(TestCase):
 
     def setUp(self):
